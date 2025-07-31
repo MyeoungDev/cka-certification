@@ -2,7 +2,7 @@
 
 ## Docker 와 Kubernetes 의 관계
 
-![image.png](./img/lecutre12-1.png)
+![image.png](./img/lecutre12_1.png)
 
 1. 초기 Docker 의 지배
     - 컨테이너 기술 초기 Docker 가 사용자 경험을 단순화하여 가장 지배적인 컨테이너 도구로 사용.
