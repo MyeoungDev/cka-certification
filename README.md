@@ -9,3 +9,4 @@
   - https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests
   - https://notes.kodekloud.com/
   - https://kodekloud.com/
+  - https://sailor.sh/cka/
