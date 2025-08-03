@@ -67,4 +67,4 @@
 - `/etc/kubernetes/manifests` 디렉토리에서 파드 정의 파일을 확인 할 수 있다.
 - `kubeadm` 기반 클러스터가 아닐경우 `/etc/systemd/system/kube-controller-manager.service` 를 통해 데몬으로 실행된다.
 
-![frame_150.jpg](attachment:ed384960-8c38-4cb0-9c11-8f6a6f480a4d:frame_150.jpg)
+![lecture18-1.jpg](img/lecture18-1.jpg)![frame_150.jpg](attachment:ed384960-8c38-4cb0-9c11-8f6a6f480a4d:frame_150.jpg)
