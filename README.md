@@ -39,6 +39,11 @@
 - [Lecture33 - Certification Tip!.md](section2%2FLecture33%20-%20Certification%20Tip%21.md)
 - [Lecture37 - Service.md](section2/Lecture37%20-%20Service.md)
 - [Lecture38 - Services Cluster IP.md](section2/Lecture38%20-%20Services%20Cluster%20IP.md)
-
+- [Lecture39 - Namespace.md](section2%2FLecture39%20-%20Namespace.md)
+- [Lecture45 - Imperative vs Declarative.md](section2%2FLecture45%20-%20Imperative%20vs%20Declarative.md)
+- [Lecture49 - Kubectl Apply Command.md](section2%2FLecture49%20-%20Kubectl%20Apply%20Command.md)
 
 ### 🗂️ Section3 Scheduling
+- [Lecture55 - Manual Scheduling.md](section3%2FLecture55%20-%20Manual%20Scheduling.md)
+
+
