@@ -11,6 +11,7 @@
   - https://kodekloud.com/
   - https://sailor.sh/cka/
   - https://learn.kodekloud.com/user/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests?utm_source=udemy&utm_medium=labs&utm_campaign=kubernetes
+  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
 
 
 ##  목차
