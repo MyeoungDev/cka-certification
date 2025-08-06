@@ -37,3 +37,5 @@
 - [Lecture29 Recap - ReplicaSets.md](section2%2FLecture29%20Recap%20-%20ReplicaSets.md)
 - [Lecture32 - Deployment.md](section2%2FLecture32%20-%20Deployment.md)
 - [Lecture33 - Certification Tip!.md](section2%2FLecture33%20-%20Certification%20Tip%21.md)
+- [Lecture37 - Service.md](section2/Lecture37%20-%20Service.md)
+- [Lecture38 - Services Cluster IP.md](section2/Lecture38%20-%20Services%20Cluster%20IP.md)
