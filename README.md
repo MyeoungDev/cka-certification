@@ -20,7 +20,7 @@
 
 - [Introduction.md](section1%2FIntroduction.md)
 
-### 🗂️ Section2
+### 🗂️ Section2 Core Concept
 - [Lecture11 - Cluster Architecture.md](section2%2FLecture11%20-%20Cluster%20Architecture.md)
 - [Lecture12 - Docker vs ContainerD.md](section2%2FLecture12%20-%20Docker%20vs%20ContainerD.md)
 - [Lecture13 - A note on Docker deprecation.md](section2%2FLecture13%20-%20A%20note%20on%20Docker%20deprecation.md)
@@ -39,3 +39,6 @@
 - [Lecture33 - Certification Tip!.md](section2%2FLecture33%20-%20Certification%20Tip%21.md)
 - [Lecture37 - Service.md](section2/Lecture37%20-%20Service.md)
 - [Lecture38 - Services Cluster IP.md](section2/Lecture38%20-%20Services%20Cluster%20IP.md)
+
+
+### 🗂️ Section3 Scheduling
