@@ -15,7 +15,7 @@
 
 - 시험 Tip
   - [피터의 개발 이야기 블로그 - 시험 합격 후기 및 공부 방법](https://peterica.tistory.com/348)
-  - [피터의 개발 이야기 블로그 - 시험 기출 문제]https://peterica.tistory.com/540
+  - [피터의 개발 이야기 블로그 - 시험 기출 문제](https://peterica.tistory.com/540)
 
 
 ##  목차
