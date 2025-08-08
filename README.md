@@ -13,6 +13,10 @@
   - https://learn.kodekloud.com/user/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests?utm_source=udemy&utm_medium=labs&utm_campaign=kubernetes
   - https://github.com/kodekloudhub/certified-kubernetes-administrator-course
 
+- 시험 Tip
+  - [피터의 개발 이야기 블로그 - 시험 합격 후기 및 공부 방법](https://peterica.tistory.com/348)
+  - [피터의 개발 이야기 블로그 - 시험 기출 문제]https://peterica.tistory.com/540
+
 
 ##  목차
 
