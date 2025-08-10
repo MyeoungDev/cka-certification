@@ -49,5 +49,8 @@
 
 ### 🗂️ Section3 Scheduling
 - [Lecture55 - Manual Scheduling.md](section3%2FLecture55%20-%20Manual%20Scheduling.md)
-
-
+- [Lecture58- Labels and Selectors.md](section3%2FLecture58-%20Labels%20and%20Selectors.md)
+- [Lecture61 - Taints abd Tolerations.md](section3%2FLecture61%20-%20Taints%20abd%20Tolerations.md)
+- [Lecture64 - Node Selectors.md](section3%2FLecture64%20-%20Node%20Selectors.md)
+- [Lecture65 - Node Affinity.md](section3%2FLecture65%20-%20Node%20Affinity.md)
+- [Lecture68 - Taints and Tolerations vs Node Affinity.md](section3%2FLecture68%20-%20Taints%20and%20Tolerations%20vs%20Node%20Affinity.md)
