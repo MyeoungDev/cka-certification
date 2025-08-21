@@ -60,3 +60,8 @@
 - [Lecture79 - Priority Class.md](section3/Lecture79%20-%20Priority%20Class.md)
 - [Lecture81 - Multiple Scheduler.md](section3/Lecture81%20-%20Multiple%20Scheduler.md)
 - [Lecture84 - Configuring Scheduler Profiles.md](section3/Lecture84%20-%20Configuring%20Scheduler%20Profiles.md)
+- [Lecture86 - Admission Controllers.md](section3/Lecture86%20-%20Admission%20Controllers.md)
+- [Lecture89 - Validating and Mutating Admission Controller.md](section3/Lecture89%20-%20Validating%20and%20Mutating%20Admission%20Controller.md)
+
+### 🗂️ Section4 Logging & Monitoring
+
