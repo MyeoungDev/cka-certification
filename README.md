@@ -68,3 +68,4 @@
 - [Lecture97 - Managing Application Logs.md](section4/Lecture97%20-%20Managing%20Application%20Logs.md) 
 
 ### 🗂️ Section5 Application Lifecycle Management
+- [Lecture102 - Rolling Updates and Rollbacks.md](section5/Lecture102%20-%20Rolling%20Updates%20and%20Rollbacks.md)
