@@ -64,4 +64,7 @@
 - [Lecture89 - Validating and Mutating Admission Controller.md](section3/Lecture89%20-%20Validating%20and%20Mutating%20Admission%20Controller.md)
 
 ### 🗂️ Section4 Logging & Monitoring
+- [Lecture94 - Monitor Cluster Components.md](section4/Lecture94%20-%20Monitor%20Cluster%20Components.md)
+- [Lecture97 - Managing Application Logs.md](section4/Lecture97%20-%20Managing%20Application%20Logs.md) 
 
+### 🗂️ Section5 Application Lifecycle Management
