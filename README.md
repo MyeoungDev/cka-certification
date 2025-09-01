@@ -69,3 +69,10 @@
 
 ### 🗂️ Section5 Application Lifecycle Management
 - [Lecture102 - Rolling Updates and Rollbacks.md](section5/Lecture102%20-%20Rolling%20Updates%20and%20Rollbacks.md)
+- [Lecture106 - Commands and Arguments in Docker.md](section5/Lecture106%20-%20Commands%20and%20Arguments%20in%20Docker.md)
+- [Lecture107 - Commands and Arguments in Kubernetes.md](section5/Lecture107%20-%20Coomands%20and%20Arguments%20in%20Kubernetes.md)
+- [Lecture110 - Configure Environment Variables in Applications.md](section5/Lecture110%20-%20Configure%20Environment%20Variables%20in%20Applications.md)
+- [Lecture111 - Configuring ConfigMaps in Application.md](section5/Lecture111%20-%20Configuring%20ConfigMaps%20in%20Application.md)
+- [Lecture114 - Secrets.md](section5/Lecture114%20-%20Secrets.md)
+- [Lecture118 - Encrypting Secret Data at Rest.md](section5/Lecture118%20-%20Encrypting%20Secret%20Data%20at%20Rest.md)
+- [Lecture121 - Multi Container Pods.md](section5/Lecture121%20-%20Multi%20Container%20Pods.md)
