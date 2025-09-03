@@ -76,3 +76,5 @@
 - [Lecture114 - Secrets.md](section5/Lecture114%20-%20Secrets.md)
 - [Lecture118 - Encrypting Secret Data at Rest.md](section5/Lecture118%20-%20Encrypting%20Secret%20Data%20at%20Rest.md)
 - [Lecture121 - Multi Container Pods.md](section5/Lecture121%20-%20Multi%20Container%20Pods.md)
+- [Lecture122 - Multi Container Pod Design Pattern.md](section5/Lecture122%20-%20Multi%20Container%20Pod%20Design%20Pattern.md)
+- [Lecture129 - Introduction to Autoscaling.md](section5/Lecture129%20-%20Introduction%20to%20Autoscaling.md)
