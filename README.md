@@ -84,3 +84,4 @@
 
 ### 🗂️ Section6 Cluster Maintenance
 - [Lecture139 - OS Upgrade.md](section6/Lecture139%20-%20OS%20Upgrade.md)
+- [Lecture142 - Kubernetes Releases.md](section6/Lecture142%20-%20Kubernetes%20Releases.md)
