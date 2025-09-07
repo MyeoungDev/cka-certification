@@ -78,3 +78,9 @@
 - [Lecture121 - Multi Container Pods.md](section5/Lecture121%20-%20Multi%20Container%20Pods.md)
 - [Lecture122 - Multi Container Pod Design Pattern.md](section5/Lecture122%20-%20Multi%20Container%20Pod%20Design%20Pattern.md)
 - [Lecture129 - Introduction to Autoscaling.md](section5/Lecture129%20-%20Introduction%20to%20Autoscaling.md)
+- [Lecture130 - Horizontal Pod Autoscaler.md](section5/Lecture130%20-%20Horizontal%20Pod%20Autoscaler.md)
+- [Lecture133 - In Place Resize of Pods.md](section5/Lecture133%20-%20In%20Place%20Resize%20of%20Pods.md)
+- [Lecture134 - Vertical Pod Autoscaling VPA.md](section5/Lecture134%20-%20Vertical%20Pod%20Autoscaling%20VPA.md)
+
+### 🗂️ Section6 Cluster Maintenance
+- [Lecture139 - OS Upgrade.md](section6/Lecture139%20-%20OS%20Upgrade.md)
