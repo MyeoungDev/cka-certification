@@ -89,3 +89,6 @@
 - [Lecture145 - Demo Cluster Upgrade.md](section6/Lecture145%20-%20Demo%20Cluster%20Upgrade.md)
 - [Lecture148 - Backup and Restore Methods.md](section6/Lecture148%20-%20Backup%20and%20Restore%20Methods.md)
 - [Lecture149 - Working with ETCDCTL and ETCDUTL.md](section6/Lecture149%20-%20Working%20with%20ETCDCTL%20and%20ETCDUTL.md)
+
+### 🗂️ Section7 Security
+
