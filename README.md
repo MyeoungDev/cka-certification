@@ -85,3 +85,7 @@
 ### 🗂️ Section6 Cluster Maintenance
 - [Lecture139 - OS Upgrade.md](section6/Lecture139%20-%20OS%20Upgrade.md)
 - [Lecture142 - Kubernetes Releases.md](section6/Lecture142%20-%20Kubernetes%20Releases.md)
+- [Lecture144 - Cluster Upgrade Process.md](section6/Lecture144%20-%20Cluster%20Upgrade%20Process.md)
+- [Lecture145 - Demo Cluster Upgrade.md](section6/Lecture145%20-%20Demo%20Cluster%20Upgrade.md)
+- [Lecture148 - Backup and Restore Methods.md](section6/Lecture148%20-%20Backup%20and%20Restore%20Methods.md)
+- [Lecture149 - Working with ETCDCTL and ETCDUTL.md](section6/Lecture149%20-%20Working%20with%20ETCDCTL%20and%20ETCDUTL.md)
