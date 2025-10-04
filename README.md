@@ -92,3 +92,5 @@
 
 ### 🗂️ Section7 Security
 
+- [Lecture155 - Kubernetes Security Primitives.md](section7%2FLecture155%20-%20Kubernetes%20Security%20Primitives.md)
+
