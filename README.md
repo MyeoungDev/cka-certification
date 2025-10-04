@@ -93,4 +93,12 @@
 ### 🗂️ Section7 Security
 
 - [Lecture155 - Kubernetes Security Primitives.md](section7%2FLecture155%20-%20Kubernetes%20Security%20Primitives.md)
+- [Lecture160 - TLS in Kubernetes.md](section7%2FLecture160%20-%20TLS%20in%20Kubernetes.md)
+- [Lecture161 - TLS in Kubernetes Certificate Creation.md](section7%2FLecture161%20-%20TLS%20in%20Kubernetes%20Certificate%20Creation.md)
+- [Lecture162 - View Certificate Details.md](section7%2FLecture162%20-%20View%20Certificate%20Details.md)
+- [Lecture166 - Certificates API.md](section7%2FLecture166%20-%20Certificates%20API.md)
+- [Lecture169 - KubeConfig.md](section7%2FLecture169%20-%20KubeConfig.md)
+- [Lecture173 - API Groups.md](section7%2FLecture173%20-%20API%20Groups.md)
+- [Lecture174 - Authroization.md](section7%2FLecture174%20-%20Authroization.md)
+- [Lecture175 - Role Based Access Control.md](section7%2FLecture175%20-%20Role%20Based%20Access%20Control.md)
 
