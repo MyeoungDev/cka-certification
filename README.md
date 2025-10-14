@@ -103,3 +103,5 @@
 - [Lecture175 - Role Based Access Control.md](section7%2FLecture175%20-%20Role%20Based%20Access%20Control.md)
 - [Lecture180 - Service Accounts.md](section7/Lecture180%20-%20Service%20Accounts.md)
 - [Lecture181 - Image Security.md](section7/Lecture181%20-%20Image%20Security.md)
+- [Lecture186 - Pre requisite Security in Docker.md](section7/Lecture186%20-%20Pre%20requisite%20Security%20in%20Docker.md)
+- [Lecture187 - Security Context.md](section7/Lecture187%20-%20Security%20Context.md)
