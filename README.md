@@ -109,6 +109,7 @@
 - [Lecture192 - Developing Network Policy.md](section7%2FLecture192%20-%20Developing%20Network%20Policy.md)
 - [Lecture196 - Custom Resource Definition CRD 2025 Updates.md](section7%2FLecture196%20-%20Custom%20Resource%20Definition%20CRD%202025%20Updates.md)
 - [Lecture198 - Custom Controllers 2025 Updates.md](section7%2FLecture198%20-%20Custom%20Controllers%202025%20Updates.md)
+- [Lecture199 - Operator Framework 2025 Updates.md](section7%2FLecture199%20-%20Operator%20Framework%202025%20Updates.md)
 
 ### 🗂️ Section8 Storage
 
