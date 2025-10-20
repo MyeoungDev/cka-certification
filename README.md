@@ -105,3 +105,10 @@
 - [Lecture181 - Image Security.md](section7/Lecture181%20-%20Image%20Security.md)
 - [Lecture186 - Pre requisite Security in Docker.md](section7/Lecture186%20-%20Pre%20requisite%20Security%20in%20Docker.md)
 - [Lecture187 - Security Context.md](section7/Lecture187%20-%20Security%20Context.md)
+- [Lecture191 - Network Policy.md](section7%2FLecture191%20-%20Network%20Policy.md)
+- [Lecture192 - Developing Network Policy.md](section7%2FLecture192%20-%20Developing%20Network%20Policy.md)
+- [Lecture196 - Custom Resource Definition CRD 2025 Updates.md](section7%2FLecture196%20-%20Custom%20Resource%20Definition%20CRD%202025%20Updates.md)
+- [Lecture198 - Custom Controllers 2025 Updates.md](section7%2FLecture198%20-%20Custom%20Controllers%202025%20Updates.md)
+
+### 🗂️ Section8 Storage
+
