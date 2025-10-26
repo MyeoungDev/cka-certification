@@ -116,3 +116,4 @@
 - [Lecture202 - Storage in Docker.md](section8%2FLecture200%20-%20Storage%20in%20Docker.md)
 - [Lecture203 - Volume Driver Plugins in Docker.md](section8%2FLecture203%20-%20Volume%20Driver%20Plugins%20in%20Docker.md)
 - [Lecture204 - Container Storage Interface.md](section8%2FLecture204%20-%20Container%20Storage%20Interface.md)
+- [Lecture205 - Volume.md](section8%2FLecture205%20-%20Volume.md)
