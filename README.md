@@ -114,3 +114,4 @@
 ### 🗂️ Section8 Storage
 
 - [Lecture202 - Storage in Docker.md](section8%2FLecture200%20-%20Storage%20in%20Docker.md)
+- [Lecture203 - Volume Driver Plugins in Docker.md](section8%2FLecture203%20-%20Volume%20Driver%20Plugins%20in%20Docker.md)
