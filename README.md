@@ -118,3 +118,4 @@
 - [Lecture204 - Container Storage Interface.md](section8%2FLecture204%20-%20Container%20Storage%20Interface.md)
 - [Lecture205 - Volume.md](section8%2FLecture205%20-%20Volume.md)
 - [Lecture206 - Persistent Volume.md](section8%2FLecture206%20-%20Persistent%20Volume.md)
+- [Lecture207 - Persistent Volume Claims.md](section8%2FLecture207%20-%20Persistent%20Volume%20Claims.md)
