@@ -1,4 +1,4 @@
-# Lecture 224 - Prerequisite Docker Networking
+# Lecture 222 - Prerequisite Network Namespaces
 
 - 예시: 호스트 == 집, 네임스페이스 == 방
 - 각 방(네임스페이스)은 사용자(컨테이너) 를 격리하여 프로세스와 네트워크 인터페이스의 브라이버시 보장.
