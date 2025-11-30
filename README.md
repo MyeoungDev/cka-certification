@@ -119,3 +119,6 @@
 - [Lecture205 - Volume.md](section8%2FLecture205%20-%20Volume.md)
 - [Lecture206 - Persistent Volume.md](section8%2FLecture206%20-%20Persistent%20Volume.md)
 - [Lecture207 - Persistent Volume Claims.md](section8%2FLecture207%20-%20Persistent%20Volume%20Claims.md)
+- [Lecture213 - Storage Class.md](section8%2FLecture213%20-%20Storage%20Class.md)
+
+### 🗂️ Section8 Networking
