@@ -121,4 +121,9 @@
 - [Lecture207 - Persistent Volume Claims.md](section8%2FLecture207%20-%20Persistent%20Volume%20Claims.md)
 - [Lecture213 - Storage Class.md](section8%2FLecture213%20-%20Storage%20Class.md)
 
-### 🗂️ Section8 Networking
+### 🗂️ Section9 Networking
+
+- [Lecture219 - Prerequisite Switching, Routing, Gateways CNI in Kubernetes.md](section9%2FLecture219%20-%20Prerequisite%20Switching%2C%20Routing%2C%20Gateways%20CNI%20in%20Kubernetes.md)
+- [Lecture220 - Prerequisite DNS.md](section9%2FLecture220%20-%20Prerequisite%20DNS.md)
+- [Lecture222 - Prerequisite Network Namespaces.md](section9%2FLecture222%20-%20Prerequisite%20Network%20Namespaces.md)
+- [Lecture224 - Prerequisite Docker Networking.md](section9%2FLecture224%20-%20Prerequisite%20Docker%20Networking.md)
